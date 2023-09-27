@@ -1,5 +1,12 @@
 # Lyft
-Mern Stack project - a social media app.
+Mern Stack project - a social media app.  
+
+
+
+
+https://github.com/sonu927/Lyft/assets/75172869/7c756d81-0ed5-4e7f-bc0c-3dff3c3ae41c
+
+
 ## How to set up project in your computer  
 ### Step-1  
 Firstly you have to clone the repo  
